@@ -1,18 +1,19 @@
 ---
-title: Welcome to Wowchemy, the website builder for Hugo
-subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+title: Пост о прошедшей неделе
+subtitle: Доброго времени суток! Сегодня мы рассмотрим еженедельную рутину студента физико-математического факультета РУДН Петров Артема.
 
 # Summary for listings and search engines
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+summary: Доброго времени суток! Сегодня мы рассмотрим еженедельную рутину студента физико-математического факультета РУДН Петров Артема.
+
 
 # Link this post with a project
 projects: []
 
 # Date published
-date: '2020-12-13T00:00:00Z'
+date: '2022-05-7T00:00:00Z'
 
 # Date updated
-lastmod: '2020-12-13T00:00:00Z'
+lastmod: '2022-05-7T00:00:00Z'
 
 # Is this an unpublished draft?
 draft: false
@@ -30,24 +31,19 @@ image:
 
 authors:
   - admin
-  - 吳恩達
 
 tags:
-  - Academic
-  - 开源
+  - Lifestyle
 
 categories:
-  - Demo
-  - 教程
+  - Week routine
 ---
 
 ## Overview
 
-1. The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
-2. The template can be modified and customised to suit your needs. It's a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a **no-code solution (write in Markdown and customize with YAML parameters)** and having **flexibility to later add even deeper personalization with HTML and CSS**
-3. You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more
-
-{{< figure src="https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png" title="The template is mobile first with a responsive design to ensure that your site looks stunning on every device." >}}
+1. Мой каждый день проходит по одному и тому же сценарию.
+2. Я встаю, чищу зубы, завариваю чай с 5-ю ложками сахара, чтобы жизнь не казалась ничтожной. Пока пью чай, я смотрю какие-нибудь или развлекательные или около-научные видео на видеохостинге YouTube. Когда голова приходит в порядок, я сажусь читать разнообразную литературу. Сейчас в поле моего интереса находится много разнообразных книг: 
+"Идеалы, многообразия и алгоритмы. Введение в вычислительные аспекты алгебраической геометрии и коммутативной алгебры" от Д. Кокса, Литтла Дж. и О'Ши Д., "Математический Анализ. Первый том" В. А. Зорич, "Физика для всех. Классическая Физика. Первый том" от Леона Купера и т.д. Так проходит пару часов и меня клонит в сон. Просыпаюсь чуть позже 5ти вечера и сажусь за разнообразную домашнюю работу. Чаще всего откладываю и играю в codewars. Приходят соседи с работы и мы чаще всего разговариваем, что-то обсуждаем, готовим вместе и много чего еще веселого. Иногда моя жизнь разбавляется игрой в баскетбол или футбол или другими делами взрослых дядь-работой или подработкой. Ничего интересного, вы зря потратили время. 
 
 ## Get Started
 

@@ -1,0 +1,8 @@
+[submodule "wlcmtunknwndth.github.io"]
+	path = wlcmtunknwndth.github.io
+	url = git@github.com:wlcmtunknwndth/wlcmtunknwndth.github.io.git
+	branch = main
+[submodule "public"]
+	path = public
+	url = git@github.com:wlcmtunknwndth/wlcmtunknwndth.github.io.git
+	branch = main
